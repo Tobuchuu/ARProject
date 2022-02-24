@@ -499,6 +499,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 633386eca7918354e974101116d47d21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_RaycastManager: {fileID: 603487131}
+  spawnablePrefab: {fileID: 8792334570236684851, guid: 92eff9b4864d04848ad00912970ffa1d,
+    type: 3}
 --- !u!4 &880763945
 Transform:
   m_ObjectHideFlags: 0
